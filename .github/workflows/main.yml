@@ -23,3 +23,6 @@ jobs:
 
       - name: Display Current Date and Time
         run: date
+      - name: Display Roll Number File
+        run: cat 21alr011.txt
+
